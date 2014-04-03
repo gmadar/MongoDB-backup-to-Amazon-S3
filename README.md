@@ -1,4 +1,4 @@
-gmadar / MySQL-backup-to-Amazon-S3
+gmadar / MongoDB-backup-to-Amazon-S3
 =================================
 
 this script is based on [woxxy / MySQL-backup-to-Amazon-S3](https://github.com/woxxy/MySQL-backup-to-Amazon-S3). Thanks woxxy!
